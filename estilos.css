@@ -1,0 +1,24 @@
+*{
+    margin: 10px;
+}
+body {
+    background-color: black;
+}
+p {
+    color: aliceblue;
+}
+h1 {
+    color: aliceblue;
+}
+h2 {
+    color: aliceblue;
+}
+a {
+    font-size:26px; color: coral;
+}
+body {
+    background-image: url(estrellas.jpg);
+}
+img {
+    border-radius: 12px;
+}
